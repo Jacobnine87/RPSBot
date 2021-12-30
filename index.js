@@ -4,6 +4,8 @@ const Discord = require('discord.js');
 
 const prefix = "!";
 
+// potatoes!
+
 const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] });
 
 let interval;
